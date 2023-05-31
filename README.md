@@ -1,12 +1,12 @@
-##0xDelta
+## 0xDelta
 Ce challenge est orienté crypto. Il consiste à trouver le flag en analysant le code d'un chiffrement fait en Python pour retrouver la clé utilisée pour le chiffrement AES.
 
-##Scénario
+## Scénario
 J'ai intercepté une étrange chaîne de caractères. Voilà ce que j'ai pu récupérer :
 
 Download: main.py / Output.txt
 
-##Write-up
+## Write-up
 La première étape est d'analyser le code Python donné. On peut s'apercevoir que le code utilise l'algorithme AES CBC 128 bits pour chiffrer le flag.
 
 Le deuxième fichier est une sortie valide de ce code (probablement le flag chiffré).
