@@ -2,7 +2,7 @@
 Ce challenge est orienté crypto. Il consiste à trouver le flag en analysant le code d'un chiffrement fait en Python pour retrouver la clé utilisée pour le chiffrement AES.
 
 ## Scénario
-J'ai intercepté une étrange chaîne de caractères. Voilà ce que j'ai pu récupérer :
+J'ai intercepté une étrange chaîne de caractères. Voilà ce que j'ai pu récupérer. Je crois qu'il sagit d'un nouvel algorithme de chiffrement et de l'output de test de ce programme.
 
 Download: main.py / Output.txt
 
